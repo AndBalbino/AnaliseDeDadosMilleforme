@@ -73,12 +73,12 @@ Com este dashboard, agora é possível:
 ---
 
 ## 📌 Conclusão
-Este projeto é um exemplo prático de como a **análise de dados aplicada ao ambiente real** pode transformar a gestão de um setor.  
+Este projeto é um exemplo prático de como a análise de dados aplicada ao ambiente real pode transformar a gestão de um setor.  
 Mesmo partindo de um cenário sem histórico estruturado, foi possível:
-- Criar uma **base sólida de dados**;
+- Criar uma base sólida de dados;
 - Organizar a informação de forma clara;
-- Construir **indicadores estratégicos**;
-- Entregar uma **ferramenta de apoio à decisão** que já está impactando a operação.
+- Construir indicadores estratégicos;
+- Entregar uma ferramenta de apoio à decisão que já está impactando a operação.
 
 ---
 

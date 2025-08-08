@@ -1,29 +1,29 @@
 ## 📊 Análise de Dados da Produção — Estudo de Caso Real
 
 ### Contexto
-Este projeto foi desenvolvido com base em um estudo de caso real, aplicado no **time de produção que atualmente eu coordeno**. 
-A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em **achismos** e percepções isoladas. Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
+Este projeto foi desenvolvido com base em um estudo de caso real, aplicado no time de produção que atualmente eu coordeno. 
+A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em *"achismos"* e percepções isoladas. Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
 
 
 **OBS:** Essa projeto foi aceito pela minha diretoria, sendo uma análise totalmente responsável e coerente. Além disso, aceitaram que fosse criado um conjunto de dados, e me forneceram algmas informações necessários sem quaisquers problema. A publicação desse projeto também foi validada pela diretoria.
 
 ### O objetivo principal 
-O objetivo principal foi criar uma **estrutura de dados confiável** e desenvolver um **dashboard interativo no Power BI** para:
-- Identificar **gargalos de produção**;
-- Descobrir **quais produtos trazem mais retorno financeiro**;
-- Avaliar o **prazo médio de produção**;
-- Monitorar **o volume produzido por período**;
-- Apoiar a **tomada de decisão baseada em dados**.
+O objetivo principal foi criar uma estrutura de dados confiável e desenvolver um dashboard interativo no Power BI para:
+- Identificar gargalos de produção;
+- Descobrir quais produtos trazem mais retorno financeiro;
+- Avaliar o prazo médio de produção;
+- Monitorar o volume produzido por período;
+- Apoiar a tomada de decisão baseada em dados.
 
 ---
 
 ### O que foi feito
 1. **Criação do conjunto de dados**
-   - Desenvolvi um **banco de dados em Excel** do zero, registrando dados históricos de produção.
+   - Desenvolvi um banco de dados em Excel do zero, registrando dados históricos de produção.
    - Estruturei campos essenciais como: produto, cliente, prazo, quantidade produzida, valor e data de entrega.
    
 2. **Modelagem dimensional**
-   - Organizei os dados no modelo estrela (**Star Schema**), criando tabelas fato e dimensão.
+   - Organizei os dados no modelo estrela (*Star Schema*), criando tabelas fato e dimensão.
    - Defini chaves primárias e estrangeiras para relacionamentos no Power BI.
 
 3. **Limpeza e tratamento**
@@ -50,10 +50,10 @@ O objetivo principal foi criar uma **estrutura de dados confiável** e desenvolv
 
 ### Resultados e Benefícios
 Com este dashboard, agora é possível:
-- **Tomar decisões mais rápidas e assertivas** sobre produção e vendas;
-- Identificar **produtos estratégicos** que geram maior margem;
-- Detectar períodos de **pico ou baixa produção** para planejar melhor a alocação de recursos;
-- Estabelecer **metas baseadas em dados reais**;
+- Tomar decisões mais rápidas e assertivas sobre produção e vendas;
+- Identificar produtos estratégicos que geram maior margem;
+- Detectar períodos de pico ou baixa produção para planejar melhor a alocação de recursos;
+- Estabelecer metas baseadas em dados reais;
 - Otimizar o fluxo de produção reduzindo atrasos.
 
 ---
@@ -68,7 +68,7 @@ Com este dashboard, agora é possível:
 
 ## Demonstração do Dashboard
 
-![Dashboard de Produção](DashMille/RelatórioMille.png)
+![Dashboard de Produção](DashMille/RelatorioMilleforme.png)
 
 ---
 
@@ -87,4 +87,4 @@ Mesmo partindo de um cenário sem histórico estruturado, foi possível:
 - Criar alertas automáticos para prazos críticos.
 
 
-📌 *Projeto desenvolvido por [Seu Nome](link-do-seu-perfil)*
+📌 *Projeto desenvolvido por [Anderson Balbino](www.linkedin.com/in/anderson-balbino)*

@@ -69,7 +69,7 @@ Com este dashboard, agora é possível:
 ## Demonstração do Dashboard
 *(Inclua aqui imagens ou GIFs do seu dashboard)*
 
-![Dashboard de Produção](link-da-imagem-aqui)
+![Dashboard de Produção](DashMille/RelatórioMille.png)
 
 ---
 

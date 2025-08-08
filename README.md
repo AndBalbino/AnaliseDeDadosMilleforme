@@ -2,7 +2,9 @@
 
 ### Contexto
 Este projeto foi desenvolvido com base em um estudo de caso real, aplicado no **time de produção que atualmente eu coordeno**. 
-A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em **achismos** e percepções isoladas. Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe. 
+A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em **achismos** e percepções isoladas. Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
+
+
 **OBS:** Essa projeto foi aceito pela minha diretoria, sendo uma análise totalmente responsável e coerente. Além disso, aceitaram que fosse criado um conjunto de dados, e me forneceram algmas informações necessários sem quaisquers problema. A publicação desse projeto também foi validada pela diretoria.
 
 ### O objetivo principal 

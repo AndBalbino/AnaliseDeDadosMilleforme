@@ -68,7 +68,7 @@ Com este dashboard, agora é possível:
 
 ## Demonstração do Dashboard
 
-![Dashboard de Produção](DashMille/Captura de tela 2025-08-15 222107.png)
+![Dashboard de Produção](DashMille/DasMille.png)
 
 ---
 

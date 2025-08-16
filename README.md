@@ -1,7 +1,9 @@
-## 📊 Análise de Dados da Produção — Estudo de Caso Real
+## 📊 Análise de Dados da Produção — Milleforme
 
 ### Contexto
 Este projeto foi desenvolvido com base em um estudo de caso real, aplicado no time de produção que atualmente eu coordeno. 
+
+
 A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em *"achismos"* e percepções isoladas. Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
 
 

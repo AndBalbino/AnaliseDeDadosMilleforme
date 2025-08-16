@@ -68,7 +68,7 @@ Com este dashboard, agora é possível:
 
 ## Demonstração do Dashboard
 
-![Dashboard de Produção](DashMille/RelatorioMilleforme.png)
+![Dashboard de Produção](DashMille/Captura de tela 2025-08-15 222107.png)
 
 ---
 
@@ -87,4 +87,4 @@ Mesmo partindo de um cenário sem histórico estruturado, foi possível:
 - Criar alertas automáticos para prazos críticos.
 
 
-📌 *Projeto desenvolvido por [Anderson Balbino](www.linkedin.com/in/anderson-balbino)*
+📌 *Projeto desenvolvido por [Anderson Balbino](https://www.linkedin.com/in/anderson-balbino/)*

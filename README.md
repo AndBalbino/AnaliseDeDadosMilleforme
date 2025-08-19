@@ -9,7 +9,8 @@ A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta
 Tendo em vista que estou me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
 
 
-**OBS:** Essa projeto foi aceito pela minha diretoria, sendo uma análise totalmente responsável e coerente. Além disso, aceitaram que fosse criado um conjunto de dados, e me forneceram algmas informações necessários sem quaisquer problema. A publicação desse projeto também foi validada pela diretoria.
+**OBS:** Essa projeto foi aceito pela minha diretoria, sendo uma análise totalmente responsável e coerente. Além disso, aceitaram que fosse criado um conjunto de dados, e me forneceram algmas informações necessários sem quaisquer problema. 
+A publicação desse projeto também foi validada pela diretoria.
 
 ### O objetivo principal 
 O objetivo principal foi criar uma estrutura de dados confiável e desenvolver um dashboard interativo no Power BI para:

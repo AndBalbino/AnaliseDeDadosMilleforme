@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com base em um estudo de caso real, aplicado no ti
 
 A empresa, de perfil tradicional, não possuía um sistema estruturado de coleta e análise de dados do setor de produção — muitas decisões eram tomadas com base em *"achismos"* e percepções isoladas. 
 
-Com isso, tendo em vista que venho me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
+Tendo em vista que estou me especializando em Data Analitycs, achei interessante implementar uma análise de dados no setor de produção, afim de monitorar melhor o time que eu coordeno, com o intuito de melhorar e otimizar a equipe.
 
 
 **OBS:** Essa projeto foi aceito pela minha diretoria, sendo uma análise totalmente responsável e coerente. Além disso, aceitaram que fosse criado um conjunto de dados, e me forneceram algmas informações necessários sem quaisquer problema. A publicação desse projeto também foi validada pela diretoria.

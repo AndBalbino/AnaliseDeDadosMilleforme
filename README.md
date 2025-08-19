@@ -24,32 +24,32 @@ O objetivo principal foi criar uma estrutura de dados confiável e desenvolver u
 
 ### O que foi feito
 1. **Criação do conjunto de dados**
-   - Desenvolvi um banco de dados em Excel do zero, registrando dados históricos de produção.
-   - Estruturei campos essenciais como: produto, cliente, prazo, quantidade produzida, valor e data de entrega.
+- Desenvolvi um banco de dados em Excel do zero, registrando dados históricos de produção.
+- Estruturei campos essenciais como: produto, cliente, prazo, quantidade produzida, valor e data de entrega.
    
 2. **Modelagem dimensional**
-   - Organizei os dados no modelo estrela (*Star Schema*), criando tabelas fato e dimensão.
-   - Defini chaves primárias e estrangeiras para relacionamentos no Power BI.
+- Organizei os dados no modelo estrela (*Star Schema*), criando tabelas fato e dimensão.
+- Defini chaves primárias e estrangeiras para relacionamentos no Power BI.
 
 3. **Limpeza e tratamento**
-   - Padronização de nomes e categorias;
-   - Correção de tipos de dados;
-   - Remoção de duplicidades;
-   - Criação de colunas e medidas calculadas em DAX para KPIs estratégicos.
+- Padronização de nomes e categorias;
+- Correção de tipos de dados;
+- Remoção de duplicidades;
+- Criação de colunas e medidas calculadas em DAX para KPIs estratégicos.
 
 4. **Construção do Dashboard**
-   - KPIs principais:
-     - **Faturamento total**
-     - **Quantidade total de produtos entregues**
-     - **Prazo médio de produção**
-     - **Produto mais vendido em quantidade**
-   - Análises gráficas:
-     - Faturamento total por cliente e produto
-     - Quantidade produzida por mês (sazonalidade)
-     - Quantidade produzida por produto ao longo do tempo
-   - Interatividade:
-     - Filtros dinâmicos
-     - Seleção de produto/cliente para atualizar KPIs automaticamente
+- KPIs principais:
+   - **Faturamento total**
+   - **Quantidade total de produtos entregues**
+   - **Prazo médio de produção**
+   - **Produto mais vendido em quantidade**
+- Análises gráficas:
+   - Faturamento total por cliente e produto
+   - Quantidade produzida por mês (sazonalidade)
+   - Quantidade produzida por produto ao longo do tempo
+- Interatividade:
+   - Filtros dinâmicos
+   - Seleção de produto/cliente para atualizar KPIs automaticamente
 
 ---
 
